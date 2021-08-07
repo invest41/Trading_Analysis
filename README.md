@@ -2,6 +2,7 @@
 
 ## snippets
 
+<!-- width="1000" height="450" -->
 [<img  src="https://github.com/invest41/Trading_Analytics/blob/main/Snippet/IMG_9628.jpeg" />](https://github.com/invest41/Trading_Analytics/blob/main/Crypto/Crypto.ipynb)
 
 [<img  src="https://github.com/invest41/Trading_Analytics/blob/main/Snippet/IMG_9629.jpeg" />](https://github.com/invest41/Trading_Analytics/blob/main/Crypto/Crypto.ipynb)
