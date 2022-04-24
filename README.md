@@ -1,5 +1,7 @@
 # Trading_Analysis
 
+#### **[My Crypto Analytics Library: Smart-dist ](https://pypi.org/project/smart-dist/)<a href="https://pepy.tech/project/smart-dist"><img src="https://static.pepy.tech/personalized-badge/smart-dist?period=total&units=none&left_color=grey&right_color=blue&left_text=Downloads"/></a>**
+
 ## snippets
 
 <!-- width="1000" height="450" -->
